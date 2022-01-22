@@ -16,6 +16,10 @@ bool StackEmpty();//Check whether the stack is empty
 bool StackPush(char Val);//push the Val into the stack
 char StackPop();//pop the Val
 
+int main(void)
+{
+    return 0;
+}
 
 bool StackEmpty()
 {
